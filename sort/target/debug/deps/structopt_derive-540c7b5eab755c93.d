@@ -1,0 +1,10 @@
+/mnt/d/Projects/Programming_Projects/Github/SoftwarePortfolio/rust_sort/sort/target/debug/deps/libstructopt_derive-540c7b5eab755c93.so: /home/porter/.cargo/registry/src/github.com-1ecc6299db9ec823/structopt-derive-0.4.14/src/lib.rs /home/porter/.cargo/registry/src/github.com-1ecc6299db9ec823/structopt-derive-0.4.14/src/attrs.rs /home/porter/.cargo/registry/src/github.com-1ecc6299db9ec823/structopt-derive-0.4.14/src/doc_comments.rs /home/porter/.cargo/registry/src/github.com-1ecc6299db9ec823/structopt-derive-0.4.14/src/parse.rs /home/porter/.cargo/registry/src/github.com-1ecc6299db9ec823/structopt-derive-0.4.14/src/spanned.rs /home/porter/.cargo/registry/src/github.com-1ecc6299db9ec823/structopt-derive-0.4.14/src/ty.rs
+
+/mnt/d/Projects/Programming_Projects/Github/SoftwarePortfolio/rust_sort/sort/target/debug/deps/structopt_derive-540c7b5eab755c93.d: /home/porter/.cargo/registry/src/github.com-1ecc6299db9ec823/structopt-derive-0.4.14/src/lib.rs /home/porter/.cargo/registry/src/github.com-1ecc6299db9ec823/structopt-derive-0.4.14/src/attrs.rs /home/porter/.cargo/registry/src/github.com-1ecc6299db9ec823/structopt-derive-0.4.14/src/doc_comments.rs /home/porter/.cargo/registry/src/github.com-1ecc6299db9ec823/structopt-derive-0.4.14/src/parse.rs /home/porter/.cargo/registry/src/github.com-1ecc6299db9ec823/structopt-derive-0.4.14/src/spanned.rs /home/porter/.cargo/registry/src/github.com-1ecc6299db9ec823/structopt-derive-0.4.14/src/ty.rs
+
+/home/porter/.cargo/registry/src/github.com-1ecc6299db9ec823/structopt-derive-0.4.14/src/lib.rs:
+/home/porter/.cargo/registry/src/github.com-1ecc6299db9ec823/structopt-derive-0.4.14/src/attrs.rs:
+/home/porter/.cargo/registry/src/github.com-1ecc6299db9ec823/structopt-derive-0.4.14/src/doc_comments.rs:
+/home/porter/.cargo/registry/src/github.com-1ecc6299db9ec823/structopt-derive-0.4.14/src/parse.rs:
+/home/porter/.cargo/registry/src/github.com-1ecc6299db9ec823/structopt-derive-0.4.14/src/spanned.rs:
+/home/porter/.cargo/registry/src/github.com-1ecc6299db9ec823/structopt-derive-0.4.14/src/ty.rs:
