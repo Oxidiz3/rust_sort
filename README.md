@@ -1,3 +1,5 @@
+
+
 # Overview
 With this project I'm trying to get a further understanding of Rust as well as sorting algorithms and minute optimizations
 
@@ -9,7 +11,7 @@ I really enjoy writing optimized code and wanted to learn Rust to do so. I am re
 language works and wanted to have some experience in it that I could use later.
 
 ## Presentation
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/B9sANKkePi8)
 
 # Development Environment
 Pycharm with the Rust plugin
