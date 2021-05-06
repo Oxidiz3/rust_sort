@@ -1,6 +1,5 @@
-// mod scratch_file;
-//
-// use scratch_file::scratch;
+// Author Porter Mecham
+// Date 05/06/2021
 extern crate rand;
 
 use rand::{Rng};
@@ -13,7 +12,7 @@ fn generate_random_list(list_length: usize) -> Vec<i32> {
 
     // take a random value from 0 to 10 and add it to the end of the list
     for _ in 1..list_length {
-        rand_list.push(rng.gen_range(0, 10000));
+        rand_list.push(rng.gen_range(0, 10));
     }
 
     rand_list
@@ -164,8 +163,6 @@ fn split_up_list(list: &Vec<i32>, max_size: usize) -> Vec<Vec<i32>> {
 fn merge_lists(r_list: &Vec<i32>, l_list: &Vec<i32>) -> Vec<i32> {
     let mut r = 0;
     let mut l = 0;
-
-
     let mut merged_list = Vec::new();
 
     for _ in 0..(r_list.len()  + l_list.len()){
@@ -208,7 +205,7 @@ fn main() {
     // use and time bubble sort
     bubble_sort(&random_list, list_length);
     // use and time the counting sort
-    // counting_sort(&random_list);
+    counting_sort(&random_list);
     let sorted_list = tim_sort(&random_list);
     println!("{:?}", sorted_list);
 }

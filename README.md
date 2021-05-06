@@ -1,35 +1,24 @@
 # Overview
-
-{Important!  Do not say in this section that this is college assignment.  Talk about what you are trying to accomplish as a software engineer to further your learning.}
 With this project I'm trying to get a further understanding of Rust as well as sorting algorithms and minute optimizations
 
-{Provide a description the software that you wrote to demonstrate the Rust language.}
-In this 
+## What is this code?
+In my software I've written four different sorting algorithms and tested each one of them for speed and accuracy
 
-{Describe your purpose for writing this software.}
+## Purpose
+I really enjoy writing optimized code and wanted to learn Rust to do so. I am really interested in the way that this 
+language works and wanted to have some experience in it that I could use later.
 
-{Provide a link to your YouTube demonstration.  It should be a 4-5 minute demo of the software running and a walkthrough of the code.  Focus should be on sharing what you learned about the language syntax.}
-
+## Presentation
 [Software Demo Video](http://youtube.link.goes.here)
 
 # Development Environment
-
-{Describe the tools that you used to develop the software}
-I am using pycharm with the Rust plugin
-
-{Describe the programming language that you used and any libraries.}
-I am using Rust and the Rust libraries rand and time
+Pycharm with the Rust plugin
+Rust and the Rust libraries rand and time
 
 # Useful Websites
-
-{Make a list of websites that you found helpful in this project}
-* [](http://url.link.goes.here)
+* [Rust Lang](http://rust-lang.org)
 * [Geeks for Geeks](https://www.geeksforgeeks.org)
 
 # Future Work
-
-{Make a list of things that you need to fix, improve, and add in the future.}
-* Selection Sort
-* Bubble Sort
-* Count Sorting
-* Tim Sort
+* Make the counting sort work with two-digit numbers
+* Try and make the Tim sort more efficient
